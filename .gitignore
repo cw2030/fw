@@ -1,0 +1,6 @@
+###annotation
+*.settings
+*.classpath
+*.project
+/target
+/src/test
